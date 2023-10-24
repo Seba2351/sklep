@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597301152523",
+    "project_id": "sklep-1d8bb",
+    "storage_bucket": "sklep-1d8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597301152523:android:5b79fe6dce9d2b85f7700e",
+        "android_client_info": {
+          "package_name": "com.example.sklep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFWQwUgJPEZC5mbqXydrJgigJMQGlc03U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
